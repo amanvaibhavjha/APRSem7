@@ -8,7 +8,7 @@ This project provides a complete, from-scratch implementation of Linear Discrimi
 
 ### Workflow Overview 
 
-The `Assignment-1.ipynb` notebook is structured in two main parts:
+The `Assignment_1.ipynb` notebook is structured in two main parts:
 
 **Part 1: Exploratory Visualization**
 * The LDA algorithm is implemented from scratch in a Python class.
@@ -52,5 +52,5 @@ pip install numpy pandas matplotlib seaborn scikit-learn jupyterlab
     ```bash
     jupyter lab
     ```
-4.  Open the `Assignment-1.ipynb` file and run the cells sequentially.
+4.  Open the `Assignment_1.ipynb` file and run the cells sequentially.
 
